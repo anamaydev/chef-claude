@@ -10,10 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@huggingface/inference": "^3.9.2",
     "@tailwindcss/cli": "^4.1.4",
     "@tailwindcss/vite": "^4.1.4",
+    "install": "^0.13.0",
+    "npm": "^11.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "rehype-react": "^8.0.0",
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
